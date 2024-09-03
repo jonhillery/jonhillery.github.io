@@ -1,11 +1,11 @@
 /* TEAM */
-	Author/Theme: Dominik Moritz
-	Twitter: @domoritz
+	Author/Theme: Jon Hillery
+	Twitter: @jonhillery
 	Mastodon: @dom@vis.social
 	From: Pittsburgh, PA
 
 /* SITE */
-	Language: English / German
+	Language: English
 	Doctype: HTML5
 	IDE: Sublime Text, VIM, VSCode
 	Software: Jekyll
