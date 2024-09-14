@@ -4,8 +4,8 @@ email: hillery@math.ucla.edu
 description: > # this means to ignore newlines until "baseurl:"
    Mathematics PhD Student at UCLA. I'm interested in groups and their representations.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.domoritz.de" # the base hostname & protocol for your site
-production_url: "https://www.domoritz.de"
+url: "http://www.hillery.xyz" # the base hostname & protocol for your site
+production_url: "http://www.hillery.xyz"
 github_username: jonhillery
 permalink: /blog/:year/:month/:title.html
 
