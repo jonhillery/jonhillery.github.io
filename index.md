@@ -10,8 +10,6 @@ class: home
 
 <div class="intro" markdown="1">
 I'm a PhD student in the [UCLA Department of Mathematics](https://ww3.math.ucla.edu/), interested in representation theory. I was previously a student at UC Berkeley and Cambridge University.
-
-For Fall 2024, I'm a TA for Math 33A Linear Algebra and Applications. My officer hours are TBA.
 </div>
 
 <div class="me" markdown="1">
@@ -29,7 +27,7 @@ For Fall 2024, I'm a TA for Math 33A Linear Algebra and Applications. My officer
 
 </div>
 
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}).
+For Fall 2024, I'm a TA for Math 33A Linear Algebra and Applications. My officer hours are TBA.
 
 ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
 
