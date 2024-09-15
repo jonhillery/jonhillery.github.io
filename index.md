@@ -4,29 +4,27 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Dominik Moritz
+# Hi, I'm Jon Hillery
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a professor at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/).
+I'm a PhD student in the [UCLA Department of Mathematics](https://ww3.math.ucla.edu/), interested in representation theory. I was previously a student at UC Berkeley and Cambridge University.
 
-I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
-
-My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata.github.io/draco/) at premier academic venues and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
+For Fall 2024, I'm a TA for Math 33A Linear Algebra and Applications. My officer hours are TBA.
 </div>
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/dominik_berlin.webp' type='image/webp' />
+  <source srcset='/images/jon_sfmoma.webp' type='image/webp' />
   <img
-    src='/images/dominik_berlin.jpg'
+    src='/images/jon_sfmoma.jpg'
     alt='Dominik Moritz'>
 </picture>
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* NSH 2504B
+* MS 2350
 </div>
 
 </div>
