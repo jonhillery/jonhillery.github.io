@@ -163,23 +163,6 @@ To enhance people's ability to understand and communicate large and complex data
 {% endfor %}
 
 
-<h2>Patents</h2>
-
-{% for patent in site.data.patents %}
-  <div class="date-container">
-    <span class="date">{{ patent.date | date: "%b %Y" }}</span>
-    <h3><a href="{{ patent.url }}">{{ patent.title }}</a></h3>
-  </div>
-  <div class="patent">
-    <p>
-      {% for author in patent.authors %}
-        {% include person person=author %}{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
-    </p>
-  </div>
-{% endfor %}
-
-
 <h2>Student Mentoring</h2>
 
 {% assign filtered_mentoring = site.data.mentoring | where_exp:'item','item.hidden == null' %}
