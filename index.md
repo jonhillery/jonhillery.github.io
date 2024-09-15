@@ -9,7 +9,7 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a PhD student in the [UCLA Department of Mathematics](https://ww3.math.ucla.edu/), interested in representation theory. I was previously a student at UC Berkeley and Cambridge University.
+I'm a PhD student in the [UCLA Department of Mathematics](https://ww3.math.ucla.edu/), interested in representation theory. I was previously a student at UC Berkeley and Cambridge University. More info about me is in my [CV]({{ "/cv/" | relative_url }}).
 </div>
 
 <div class="me" markdown="1">
