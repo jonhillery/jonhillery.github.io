@@ -1,8 +1,8 @@
 /* TEAM */
 	Author/Theme: Jon Hillery
 	Twitter: @jonhillery
-	Mastodon:
-	From: Los Angeles, CA
+	Mastodon: @dom@vis.social
+	From: Pittsburgh, PA
 
 /* SITE */
 	Language: English
