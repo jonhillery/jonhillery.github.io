@@ -3,7 +3,16 @@
   city: Online
   date: 2020-08-01
   slides: /talks/SURF.pdf
-  #url: https://events.seas.upenn.edu/event/cis-seminar-visualization-for-people-systems/
+- title: "Applications of Information Theory to Theoretic Computer Science"
+  location: Berkeley UGTCS
+  city: Berkeley
+  date: 2019-5-20
+  slides: /talks/Toolkit_Information_Theory.pdf
+- title: "Brunn-Minkowski Inequality and Sorting Partial Orders"
+  location: Berkeley UGTCS
+  city: Berkeley
+  date: 2019-5-13
+  slides: /talks/Toolkit_Convex_Geo.pdf
 #- title: "Visualization for People + Systems"
 #  location: University of Pennsylvania
 #  city: Philadelphia
