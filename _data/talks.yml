@@ -7,12 +7,12 @@
   location: Berkeley UGTCS
   city: Berkeley
   date: 2019-5-20
-  slides: /talks/Toolkit_Information_Theory.pdf
+  notes: /talks/Toolkit_Information_Theory.pdf
 - title: "Brunn-Minkowski Inequality and Sorting Partial Orders"
   location: Berkeley UGTCS
   city: Berkeley
   date: 2019-5-13
-  slides: /talks/Toolkit_Convex_Geo.pdf
+  notes: /talks/Toolkit_Convex_Geo.pdf
 #- title: "Visualization for People + Systems"
 #  location: University of Pennsylvania
 #  city: Philadelphia
