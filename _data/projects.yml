@@ -1,24 +1,24 @@
 - title: Unitary Dual of Some Lie Groups
   paper: https://www.hillery.xyz/papers/252_Project.pdf
-  image: mosaic.png
+  image: 252_Project.png
   description: "Class project (Berkeley 252/261A) on the unitary representations of SU(2) and SL(2, R)."
   highlight: 1#
 
 - title: Unitarizability of Representations of Kac-Moody Algebras
   paper: https://www.hillery.xyz/papers/261B_Project.pdf
-  image: mosaic.png
+  image: 261B_Project.png
   description: "Class project (Berkeley 261B) on the unitarizability of highest-weight representations of Kac-Moody and other Lie algebras."
   highlight: 2#
 
 - title: The Brauer Group of a Nonarchimedean Local Field
   paper: https://www.hillery.xyz/papers/254A_Project.pdf
-  image: mosaic.png
+  image: 254A_Project.png
   description: "Class project (Berkeley 254A) on the computing the Brauer group of local fields."
   highlight: 3#
 
 - title: Topological Quantum Computation and Fusion Categories
   paper: https://www.hillery.xyz/papers/Topological_Quantum_Computation.pdf
-  image: mosaic.png
+  image: Topological.png
   description: "Class project (Berkeley CS C191) on the the mathematical formulation of topological quantum computing."
   highlight: 4#
 
