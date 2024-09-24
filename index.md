@@ -27,7 +27,7 @@ I'm a PhD student in the [UCLA Department of Mathematics](https://ww3.math.ucla.
 
 </div>
 
-For Fall 2024, I'm a TA for Math 33A Linear Algebra and Applications. My officer hours are TBA.
+For Fall 2024, I'm a TA for Math 33A Linear Algebra and Applications. My office hours are TBA.
 
 ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
 
