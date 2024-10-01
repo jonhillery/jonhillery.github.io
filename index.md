@@ -27,7 +27,7 @@ I'm a PhD student in the [UCLA Department of Mathematics](https://ww3.math.ucla.
 
 </div>
 
-For Fall 2024, I'm a TA for Math 33A Linear Algebra and Applications. My office hours are Thursdays 10-11 in MS 2350. <a href=Assets/Fall_2024_MATH33A_Worksheets.pdf>Worksheet 1</a>
+For Fall 2024, I'm a TA for Math 33A Linear Algebra and Applications. My office hours are Thursdays 10-11 in MS 2350. <a href=assets/Fall_2024_MATH33A_Worksheets.pdf>Worksheet 1</a>
 
 ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
 
