@@ -23,4 +23,5 @@ I'll be posting the discussion problems here, as well as in BruinLearn (Canvas).
 
 <table>
   <tr> <th>Discussion 1</th> <td><a href="/assets/33A-Worksheet1-F24.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Worksheet</a></td></tr>
+  <tr> <th>Discussion 2</th> <td><a href="/assets/33A-Worksheet2-F24.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Worksheet</a> <a href="/assets/33A-Worksheet2-Answers-F24.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Answers</a></td></tr>
 </table>
