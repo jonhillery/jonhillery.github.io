@@ -13,7 +13,7 @@ Math 33A Fall 2024
 
 Discussions: Tuesday and Thursday 9-10, Bunche 3170
 
-Office Hours: Thursdays (and Tuesdays unofficially) 10-11 in Mathematical Sciences 2350.
+Office Hours: Thursdays 10-11 in Mathematical Sciences 2350.
 
 You can also get help in the SMC (MS 3974) at any time it's open. I'll be there Wednesdays 2-3.
 
