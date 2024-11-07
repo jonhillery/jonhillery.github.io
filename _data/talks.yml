@@ -1,3 +1,9 @@
+- title: "Kazhdan-Lusztig Theory"
+  location: UCLA Algebra Seminar
+  city: Los Angeles
+  date: 2024-11-7
+  notes: /talks/Kazhdan-Lusztig.pdf
+  url: https://sites.google.com/view/gurbir-dhillon/algebra-participating-seminar?authuser=0
 - title: "Communication-Optimal Neural Network Nested Loops"
   location: UC Berkeley
   city: Online
@@ -13,11 +19,6 @@
   city: Berkeley
   date: 2019-5-13
   notes: /talks/Toolkit_Convex_Geo.pdf
-- title: "Kazhdan-Lusztig Theory"
-  location: UCLA Algebra Seminar
-  city: Los Angeles
-  date: 2024-11-7
-  notes: /talks/Kazhdan-Lusztig.pdf
 #- title: "Visualization for People + Systems"
 #  location: University of Pennsylvania
 #  city: Philadelphia
