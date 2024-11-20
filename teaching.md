@@ -27,4 +27,5 @@ I'll be posting the discussion problems here, as well as in BruinLearn (Canvas).
   <tr> <th>Discussion 3</th> <td><a href="/assets/33A-Worksheet3-F24.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Worksheet</a> <a href="/assets/33A-Worksheet3-Answers-F24.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Answers</a></td></tr>
   <tr> <th>Discussion 4</th> <td><a href="/assets/33A-Worksheet4-F24.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Worksheet</a> <a href="/assets/33A-Worksheet4-Answers-F24.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Answers</a></td></tr>
   <tr> <th>Midterm 1 Review</th> <td><a href="/assets/33A-Midterm1-Review.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Worksheet</a> <a href="/assets/33A-Midterm1-Review-Solutions.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Answers</a></td></tr>
+  <tr> <th>Midterm 2 Review</th> <td><a href="/assets/33A-Midterm2-Review.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Worksheet</a> <a href="/assets/33A-Midterm2-Review-Solutions.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Answers</a></td></tr>
 </table>
